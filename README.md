@@ -1,11 +1,12 @@
 # Sales-Analysis
 
 ###  Project Overview
-This project performs an end-to-end analysis of a sales data. The goal is to demonstrate data cleaning, transformation, modelling using Excel and Power Query.
+This project performs an end-to-end analysis of the sales performance of a retail company. 
+The aim is to assess the data to identify trends, make informed recommendations, and understand the companys 
 
 
 ### Dataset Source
-Superstor.csv
+"Superstore.csv"
 
 
 ## Tools Used
