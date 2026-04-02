@@ -1,8 +1,7 @@
-# E-commerce-Analysis
+# Sales-Analysis
 
-### 📌 Project Overview
-This project performs an end-to-end analysis of a real e-commerce dataset from Olist, 
-Brazil’s largest online marketplace. The goal is to demonstrate data cleaning, 
+###  Project Overview
+This project performs an end-to-end analysis of a sales data. The goal is to demonstrate data cleaning, 
 transformation, modelling, and customer analytics using Excel and Power Query.
 
 The dataset contains 100k+ orders across multiple relational tables, making it ideal for 
