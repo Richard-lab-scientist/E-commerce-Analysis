@@ -1,35 +1,18 @@
 # Sales-Analysis
 
 ###  Project Overview
-This project performs an end-to-end analysis of a sales data. The goal is to demonstrate data cleaning, 
-transformation, modelling, and customer analytics using Excel and Power Query.
-
-The dataset contains 100k+ orders across multiple relational tables, making it ideal for 
-showcasing complex data engineering and analytical skills.
+This project performs an end-to-end analysis of a sales data. The goal is to demonstrate data cleaning, transformation, modelling using Excel and Power Query.
 
 ---
 
-## 📂 Dataset Source
-Brazilian E-Commerce Public Dataset by Olist  
-Available on Kaggle.
+##  Dataset Source
+Superstor.csv
 
-The dataset includes:
-- Orders
-- Customers
-- Order Items
-- Payments
-- Products
-- Sellers
-- Reviews
-- Geolocation
-- Category Translations
 
----
-
-## 🛠 Tools Used
+## Tools Used
 - Excel (Power Query, PivotTables, Formulas)
 - Power Query
-- Excel Charts & Dashboarding
+- Tableau
 
 ---
 
