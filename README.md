@@ -1,9 +1,8 @@
 # Sales-Analysis
 
 ###  Project Overview
-This project performs an end-to-end analysis of the sales performance of a retail company. 
-The aim is to assess the data to identify trends, make informed recommendations, and understand the companys 
-
+This project performs an end-to-end analysis of the transactions of a retail company. 
+The aim is to assess the data to: uncover patterns, make informed recommendations, and understand the business's performance level.
 
 ### Dataset Source
 "Superstore.csv"
