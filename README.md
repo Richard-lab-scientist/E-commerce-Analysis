@@ -3,35 +3,19 @@
 ###  Project Overview
 This project performs an end-to-end analysis of a sales data. The goal is to demonstrate data cleaning, transformation, modelling using Excel and Power Query.
 
----
 
-##  Dataset Source
+### Dataset Source
 Superstor.csv
 
 
 ## Tools Used
-- Excel (Power Query, PivotTables, Formulas)
+- Excel
+- Power Pivot
 - Power Query
 - Tableau
 
----
 
-## 🔧 1. Data Import & Profiling
-All 9 tables were imported into Power Query.
-
-### Key profiling steps:
-- Checked column data types
-- Identified missing values and nulls
-- Detected duplicates
-- Flagged inconsistent date formats
-- Reviewed text inconsistencies (product names, categories)
-- Assessed geolocation granularity
-
-Screenshots and profiling notes are included in `/visuals/`.
-
----
-
-## 🧹 2.Data Cleaning & Transformation
+##  1.Data Cleaning & Transformation
 ### Major cleaning operations:
 - Removed duplicate customer and seller entries
 - Standardised date formats across all tables
@@ -46,9 +30,8 @@ Screenshots and profiling notes are included in `/visuals/`.
 ### Power Query M Code
 All transformation scripts are stored in `/power_query/`.
 
----
 
-## 🧱 3. Data Model (Star Schema)
+## 🧱 2. Data Model (Star Schema)
 The final model includes:
 
 ### Fact Table:
@@ -62,51 +45,8 @@ The final model includes:
 
 A diagram is included in `/visuals/model_diagram.png`.
 
----
 
-## 📊 4. RFM Analysis
-Calculated for each customer:
-- **Recency**: Days since last purchase
-- **Frequency**: Number of completed orders
-- **Monetary**: Total spend
-
-RFM scores were assigned using quintiles (1–5).  
-Segment definitions include:
-- Champions
-- Loyal Customers
-- Potential Loyalists
-- At Risk
-- Hibernating
-- Lost
-
-Outputs stored in `/analysis/rfm_analysis.xlsx`.
-
----
-
-## 💰 5. Customer Lifetime Value (CLV)
-CLV estimated using:
-- Average Order Value
-- Purchase Frequency
-- Gross Margin Assumption
-- Retention Rate (derived from repeat behaviour)
-
-Top CLV customers and segment-level CLV included.
-
----
-
-## 🧩 6. Customer Segmentation
-Combined RFM + CLV to create actionable segments:
-- High CLV Champions
-- High Frequency Loyalists
-- Low Recency At-Risk Customers
-- Low CLV Bargain Shoppers
-- New Customers
-
-Visuals included in `/visuals/`.
-
----
-
-## 📈 7. Dashboard
+## 3. Dashboard
 The final Excel dashboard includes:
 - Monthly revenue trend
 - RFM segment distribution
