@@ -1,10 +1,8 @@
-# Sales-Analysis
+# Regional-Profitablity-Analysis
 
 ###  Project Overview
 
-This project performs an end-to-end analysis of the Financial transactions of a retail company. 
-The aim is to understand what regions and product categories affect profit margins despite revenue growth, our findings will help us make informed recommendations, and understand the business's performance level.
-
+A retail company operating across multiple regions and product categories, has no structured view of where profit margin is being generated or diminished at a granular level. This analysis identifies which region-and-category combinations are skewing overall profitability, investigates how the discounting compresses margin, and produces a prioritised set of recommendations that can improve margin performance across the business.
 
 ### Tools Used
 
