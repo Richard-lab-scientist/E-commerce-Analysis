@@ -2,7 +2,7 @@
 
 ###  Project Overview
 
-A retail company operating across multiple regions and product categories, has no structured view of where profit margin is being generated or diminished at a granular level. This analysis identifies which region-and-category combinations are skewing overall profitability, investigates how the discounting compresses margin, and produces a prioritised set of recommendations that can improve margin performance across the business. 
+A retail company operating across multiple regions and product categories, has no structured view of where profit margin is being generated or diminished at a granular level. This analysis identifies which region-and-category combinations are skewing overall profitability, investigates how the discountinf affects profit margin, and produces actionable steps hat can improve margin performance across the business. 
 
 ### Tools Used
 
