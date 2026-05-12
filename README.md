@@ -1,8 +1,9 @@
-# Regional-Profitablity-Analysis
+ ## Project Background
 
-###  Project Overview
 
-A retail company operating across multiple regions and product categories, has no structured view of where profit margin is being generated or diminished at a granular level. This analysis identifies which region-and-category combinations are skewing overall profitability, investigates how the discounting affects profit margin, and produces actionable steps that can improve margin performance across the business. 
+Hurst Superstore established in 2014, is a a global e-commerce company that offers a variety of hardware and electronic products through its online platforms.
+
+The company has seen a decline in commercial returns s and product categories, has no structured view of where profit margin is being generated or diminished at a granular level. This analysis identifies which region-and-category combinations are skewing overall profitability, investigates how the discounting affects profit margin, and produces actionable steps that can improve margin performance across the business. 
 
 ### Tools Used
 
