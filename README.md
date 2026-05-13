@@ -9,6 +9,9 @@ Insignts and recommendations are provided in these key area:
 - Product Level Performance:
 - Regional Analysis:
 
+<img width="1000" height="700" alt="Screenshot 2026-05-13 151757" src="https://github.com/user-attachments/assets/c1aca06d-5fab-4200-9608-37e43853aea9" />
+
+
 ### Key findings
 - The south
 
