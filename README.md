@@ -1,14 +1,13 @@
  ## Project Background
+Hurst Superstore established in 2014, is a a global e-commerce company that offers a variety of hardware and electronic products through its online platforms. 
 
+The company has seen an increase in year-on-year revenue from 2014-2017 globally. Its  has no structured view of where profit margin is being generated or diminished at a granular level. 
 
-Hurst Superstore established in 2014, is a a global e-commerce company that offers a variety of hardware and electronic products through its online platforms.
+Insignts and recommendations are provided in these key area:
 
-The company has seen a  in commercial returns s and product categories, has no structured view of where profit margin is being generated or diminished at a granular level. This analysis identifies which region-and-category combinations are skewing overall profitability, investigates how the discounting affects profit margin, and produces actionable steps that can improve margin performance across the business. 
-
-### Tools Used
-
-- Excel(Power Pivot and Power Query) - Data cleaning, transformation and Analysis
-- Power BI - Data Visualisation
+- Discount Analysis:
+- Product Level Performance:
+- Regional Analysis:
 
 ### Key findings
 - The south
