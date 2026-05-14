@@ -16,3 +16,16 @@ Insights and recommendations are provided in these key areas:
 
 
 
+
+## Data Structure and initial checks
+Hurst's database structure as seen below consists of                                                                                                                        <img width="1889" height="841" alt="Screenshot 2026-04-02 223148" src="https://github.com/user-attachments/assets/1fe69c97-51d2-4463-a3b1-ac7e5ea69b59" />
+
+
+
+
+
+
+
+
+
+
