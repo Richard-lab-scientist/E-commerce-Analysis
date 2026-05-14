@@ -1,44 +1,18 @@
  ## Project Background
-Hurst Superstore established in 2014, is a a global e-commerce company that offers a variety of hardware and electronic products through its online platforms. 
+Hurst Superstore established in 2014, is a global e-commerce company that offers a variety of office supplies through its online platforms. 
 
-The company has seen an increase in year-on-year revenue from 2014-2017 globally. Its  has no structured view of where profit margin is being generated or diminished at a granular level. 
+The company has seen a fluctuation of revenue growth across the span of 2014-2017 with the highest turnover recorded at 2016. Its sales, pricing strategies,operational efficiency and product offerings reveals its sales performance has not been proportionally translated into profit across its operating region.  This project thoroughly investigates and uncovers critical insights that will improve Hurst's commercial success.
 
 Insignts and recommendations are provided in these key area:
 
-- Discount Analysis:
+- Discount Analysis: An evaluation of discount behaviour 
 - Product Level Performance:
 - Regional Analysis:
 
-<img width="1000" height="700" alt="Screenshot 2026-05-13 151757" src="https://github.com/user-attachments/assets/c1aca06d-5fab-4200-9608-37e43853aea9" />
 
 
-### Key findings
-- The south
-
-##  1.Data Cleaning & Transformation
 
 
-## 2. Data Model (Star Schema)
-The final model includes:
 
-### Sales Tbale:
-- `FactOrders` (orders + items + payments + reviews)
-
-### Dimension Tables:
-- `DimCustomer`
-- `DimProduct`
-- `DimSeller`
-- `DimDate`
-
-A diagram is included in `/visuals/model_diagram.png`.
-
-## 2. Exploratory Data analysis
-
-
-## 3. Dashboard
-The final Excel dashboar
-
-## 📎 Repository Structure
-See folder tree in the main project directory.
 
 
