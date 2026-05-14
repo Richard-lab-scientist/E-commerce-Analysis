@@ -3,11 +3,11 @@ Hurst Superstore established in 2014, is a global e-commerce company that offers
 
 The company has seen a fluctuation of revenue growth across the span of 2014-2017 with the highest turnover recorded at 2016. Its sales, pricing strategies,operational efficiency and product offerings reveals its sales performance has not been proportionally translated into profit across its operating region.  This project thoroughly investigates and uncovers critical insights that will improve Hurst's commercial success.
 
-Insignts and recommendations are provided in these key area:
+Insights and recommendations are provided in these key areas:
 
-- Discount Analysis: An evaluation of discount behaviour 
-- Product Level Performance:
-- Regional Analysis:
+- Discount Analysis: An evaluation of discount behaviour on profit across regions.
+- Product Level Performance: An analysis of Hurst's Product lines, understanding their impact on overall profitability. 
+- Volume Analysis: An assesment of product volume and if the margin generated justifies discounting behavior.
 
 
 
