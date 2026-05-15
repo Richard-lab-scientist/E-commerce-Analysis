@@ -18,10 +18,12 @@ Insights and recommendations are provided in these key areas:
 
 
 ## Data Structure and initial checks
-Hurst's database structure as seen below consists of                                                                                                                        <img width="1889" height="841" alt="Screenshot 2026-04-02 223148" src="https://github.com/user-attachments/assets/1fe69c97-51d2-4463-a3b1-ac7e5ea69b59" />
+Hurst's database structure as seen below consists of three tables: Orders, Region and Product with a total row count of 10,000 records.
 
+<img width="700" height="400" alt="Screenshot 2026-05-15 140820" src="https://github.com/user-attachments/assets/384cc8a7-d67b-4784-aaa5-2ceb6e8ed02b" />
 
-
+Prior to conducting the analysis, a number of checks were conducted for quality control and familiarization with the data. 
+                                            
 
 
 
