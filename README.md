@@ -23,6 +23,16 @@ Hurst's database structure as seen below consists of three tables: Orders, Regio
 <img width="700" height="400" alt="Screenshot 2026-05-15 140820" src="https://github.com/user-attachments/assets/384cc8a7-d67b-4784-aaa5-2ceb6e8ed02b" />
 
 Prior to conducting the analysis, a number of checks were conducted for quality control and familiarization with the data. 
+
+## Executive Summary 
+
+### Overview of Findings
+The  has seen a deficit of   
+
+<img width="1298" height="727" alt="Screenshot 2026-05-15 150718" src="https://github.com/user-attachments/assets/6570b5dc-0671-4a63-96b1-c22f9de37649" />
+
+
+ 
                                             
 
 
