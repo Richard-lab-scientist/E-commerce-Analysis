@@ -27,9 +27,9 @@ Prior to conducting the analysis, a number of checks were conducted for quality 
 ## Executive Summary 
 
 ### Overview of Findings
-Despite accumulating £632,660 in revenue. The company's profitability ratio reveals overall average-margin (COA) is recorded at 13.56% with Cental and South falling below this benchmark at 8.7% and 9.04 respectively. Central region is the major area for concern with its discount rate at 24.01%:eight percentage points above the business's average, indicating the discounting behaviour in that region is compressing progit margin. The following sections will explore additional factors and highlight key areas for improvement.
-
-<img width="1298" height="727" alt="Screenshot 2026-05-15 150718" src="https://github.com/user-attachments/assets/6570b5dc-0671-4a63-96b1-c22f9de37649" />
+Despite accumulating £632,660 in revenue. The company's overall average-margin (COA) is recorded at 13.56% with its Cental and South region falling below this benchmark at 8.75% and 9.04% respectively. 
+Central region is the major area for concern with its discount rate at 24.01%:eight percentage points above the business's average, indicating the discounting behaviour in that region is compressing progit margin. The following sections will explore additional factors and highlight key areas for improvement.
+<img width="1391" height="776" alt="Screenshot 2026-05-16 183834" src="https://github.com/user-attachments/assets/1eeba360-a5ed-427c-a943-e859cdf535ef" />
 
 
  
@@ -41,3 +41,4 @@ Despite accumulating £632,660 in revenue. The company's profitability ratio rev
 
 
 
+<img width="1173" height="662" alt="Screenshot 2026-05-16 183139" src="https://github.com/user-attachments/assets/ce5f0cc8-e333-44d3-810b-301c6911a69e" />
