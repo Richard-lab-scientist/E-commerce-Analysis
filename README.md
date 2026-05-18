@@ -30,8 +30,15 @@ Prior to conducting the analysis, a number of checks were conducted for quality 
 Despite accumulating £632,660 in revenue,the company's overall average-margin (COA) is recorded at 13.56% with its Cental and South region falling below this benchmark at 8.75% and 9.04% respectively. 
 Central region raises a major concern with its discount rate at 24.01%; eight percentage above the business's average, indicating that the discounting behaviour in that region is compressing profit margin at a significant rate. The following sections will explore additional factors and highlight key areas for improvement.
 
+
 <img width="1391" height="776" alt="Screenshot 2026-05-16 183834" src="https://github.com/user-attachments/assets/a0a1739d-7a0c-4c5b-89af-beac8307f4dd" />
 
 
 ### Discount Analysis:
-- Central's total sales is recorded at £152,628 and its average discount at 8.75%, it reveals that two product category: Office supplies and furniture region are significantly eroding pofit margin due to their discount rate represented at 31.73% and 24.95
+- Central's average discount at 24.01%, is the highest in the business and its profit margin at 8.75% the lowest within the company compared to other zones  . This signals that the discounting behaviour in this region is compressing profit margin excessively.
+
+- East' regions discount at 13.74%, 2.59% difference from the businesss average at 15.88 and profit margin at 18.47% highest generated in the company is a positive sign of its discounting behaviour.  This could be due to the structural position of some product line within the company's portfolio.
+
+- South regions discount rate falls slightly below companys average margin at 15.77%, 0.11% difference to the company's average of 15.88%. Discount being at this rate does not correlate to a reasonable profit margin- analysing the volume and product could reveal the deficiency in the profit.
+
+- West Region's average discount is at an healthy state recorded at 11.63%, the lowest within the comapny.
