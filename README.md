@@ -35,10 +35,10 @@ Central region raises a major concern with its discount rate at 24.01%; eight pe
 
 
 ### Discount Analysis:
-- Central's average discount at 24.01%, is the highest in the business and its profit margin at 8.75% the lowest within the company compared to other zones  . This signals that the discounting behaviour in this region is compressing profit margin excessively.
+- Central's average discount at 24.01%, is the highest in the business and its profit margin at 8.75% the lowest within the company compared to other zones. The 8.13% difference to the company average signals that the discounting behaviour is a contributing factor to margin compresson. 
 
-- East' regions discount at 13.74%, 2.59% difference from the businesss average at 15.88 and profit margin at 18.47% highest generated in the company is a positive sign of its discounting behaviour.  This could be due to the structural position of some product line within the company's portfolio.
+- East region's discount at 13.74% is 2.59% below the company average at 15.88%, and its margin at 18.47% is the highest within the company- a positive sign of its discount discipline. A product line does appear to weigh downn the average margin, this could be due to the structural positioning- overall the regions appears healthy.
 
-- South regions discount rate falls slightly below companys average margin at 15.77%, 0.11% difference to the company's average of 15.88%. Discount being at this rate does not correlate to a reasonable profit margin- analysing the volume and product could reveal the deficiency in the profit.
+- South region's margin at 9.04% is the firm's second lowest at a 4.52% difference to the company's average of 15.88%, while it's discount rate at 15.77% does fall slightly below company average of 15.88%- a healthy rate. However, it does not reveal why the area is not profitable; analysing the volume and produc lines could reveal how the marging is being compressed.
 
 - West Region's average discount is at an healthy state recorded at 11.63%, the lowest within the comapny.
