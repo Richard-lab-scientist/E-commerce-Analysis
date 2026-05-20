@@ -1,19 +1,16 @@
  ## Project Background
-Hurst Superstore established in 2014, is a global e-commerce company that offers a variety of office supplies through its online platforms. 
+Hurst Superstore established in 2014, is a global e-commerce company that offers a variety of office suplies through its online platforms. 
 
-The company has seen an increase in revenue across a four year span (2014-2017) with the highest turnover recorded at 2016. Its current pricing strategy reveals its sales performance has not materialised into profit across its operating region.This project thoroughly investigates and uncovers critical insights that will improve Hurst's commercial success.
+The company's financial revenue has varied across a span of four years (2014-2017), with the highest turnover recorded at 2016. However, its sales performance has not translated into profit across its operating region.This project thoroughly analyses its current discount strategy to uncover critical insights that will improve Hurst's profitability.
 
 Insights and recommendations are provided in these key areas:
 
-- Discount Analysis: An evaluation of discount behaviour on profit across regions.
+- Discount Analysis: An evaluation of discounting behaviour on profit across regions.
 - Product Level Performance: An analysis of Hurst's Product lines, understanding their impact on overall profitability. 
-- Volume Analysis: An assesment of product volume and if the margin generated justifies discounting behavior.
+- Volume Analysis: An assesment of product volume, and if the margin generated justifies the  discounting behavior.
 
-
-
-
-
-
+The Mcode query used to inspect and clean the data for analysis can be found here
+The power Bi dashboard can be found here 
 
 
 
