@@ -1,7 +1,7 @@
  ## Project Background
 Hurst Superstore established in 2014, is a global e-commerce company that offers a variety of office suplies through its online platforms. 
 
-The company's financial revenue has varied across a span of four years (2014-2017), with the highest turnover recorded at 2016. However, its sales performance has not translated into profit across its operating region.This project thoroughly analyses its current discount strategy to uncover critical insights that will improve Hurst's profitability.
+The company's revenue has varied across a span of four years (2014-2017), with its highest turnover recorded at 2016. However, the profit being made does not positively reflect the total sales globally. This project thoroughly analyses its pricing strategy to uncover critical insights that will improve Hurst's profitability.
 
 Insights and recommendations are provided in these key areas:
 
@@ -9,7 +9,7 @@ Insights and recommendations are provided in these key areas:
 - Product Level Performance: An analysis of Hurst's Product lines, understanding their impact on overall profitability. 
 - Volume Analysis: An assesment of product volume, and if the margin generated justifies the  discounting behavior.
 
-The Mcode query used to inspect and clean the data for analysis can be found here
+The Mcode query used to inspect and clean the data for analysis can be found here [here](h
 
 The power Bi dashboard can be found here 
 
@@ -25,15 +25,15 @@ Prior to conducting the analysis, a number of checks were conducted for quality 
 ## Executive Summary 
 
 ### Overview of Findings
-Despite accumulating £632,660 in revenue,the company's average profit margin (COA) is recorded at 13.56- With its cental and south region falling below this benchmark at 8.75% and 9.04% respectively.
-A significant issue emerges in its cental market , with its discount rate at 24.01%; eight percentage above the business's average, indicating a sinificant factor responsible  profit margin at a significant rate. The following sections will explore additional factors and highlight key areas for improvement.
+Despite accumulating £633,000 in revenue, the average profit margin across all region is 13.6%; With its cental and south region falling below this benchmark at 8.8% and 9.04%.
+A significant issue also emerges in its cental region: It records the highest discount at 24%, eight percentage above the business's average, indicating its effect on profit margin. The following sections will also explore additional factors and highlight key areas for improvement.
 
 
 <img width="1391" height="776" alt="Screenshot 2026-05-16 183834" src="https://github.com/user-attachments/assets/a0a1739d-7a0c-4c5b-89af-beac8307f4dd" />
 
 
 ### Discount Analysis:
-- Central's average discount at 24.01%, is the highest in the business and its profit margin at 8.75% the lowest within the company compared to other zones. The 8.13% difference to the company average signals that the discounting behaviour is a contributing factor to margin compresson. 
+- Central's average discount at 24%, is the highest in the business and its profit margin at 8.75% the lowest within the company compared to other zones. The 8.13% difference to the company average signals that the discounting behaviour is a contributing factor to margin compresson. 
 
 - East region's discount at 13.74% is 2.59% below the company average at 15.88%, and its margin at 18.47% is the highest within the company- a positive sign of its discount discipline. A product line does appear to weigh downn the average margin, this could be due to the structural positioning- overall the regions appears healthy.
 
