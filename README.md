@@ -9,7 +9,7 @@ Insights and recommendations are provided in these key areas:
 - Product Level Performance: An analysis of Hurst's Product lines, understanding their impact on overall profitability. 
 - Volume Analysis: An assesment of product volume, and if the margin generated justifies the  discounting behavior.
 
-The Mcode query used to inspect and clean the data for analysis can be found here [here](h
+The Mcode query used to inspect and clean the data for analysis can be found here
 
 The power Bi dashboard can be found here 
 
