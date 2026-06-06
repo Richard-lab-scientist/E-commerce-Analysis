@@ -1,7 +1,7 @@
  ## Project Background
-Hurst Superstore established in 2014, is a global e-commerce company that offers a variety of office suplies through its online platforms. 
+Hurst Superstore established in 2014, is an Wholesale company distributing office supplies, technology, facilities, and professional services. 
 
-The company's revenue has varied across a span of four years (2014-2017), with its highest turnover recorded at 2016. However, the profit being made does not positively reflect the total sales globally. This project thoroughly analyses its pricing strategy to uncover critical insights that will improve Hurst's profitability.
+The company has significant amounts odf data  across a span of four years (2014-2017), with its highest turnover recorded at 2016. However, the profit being made does not positively reflect the total sales globally. This project thoroughly analyses its pricing strategy to uncover critical insights that will improve Hurst's profitability.
 
 Insights and recommendations are provided in these key areas:
 
