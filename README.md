@@ -1,42 +1,119 @@
- ## Project Background
-Hurst Superstore established in 2014, is an Wholesale company distributing office supplies, technology, facilities, and professional services. 
+# Project Background
+Hurst's , including the industry, active years, business model, and key business metrics. Explain this from the POV of a data analyst who is working at the company.
 
-The company has significant amounts odf data  across a span of four years (2014-2017), with its highest turnover recorded at 2016. However, the profit being made does not positively reflect the total sales globally. This project thoroughly analyses its pricing strategy to uncover critical insights that will improve Hurst's profitability.
+Insights and recommendations are provided on the following key areas:
 
-Insights and recommendations are provided in these key areas:
+- **Category 1:** 
+- **Category 2:** 
+- **Category 3:** 
+- **Category 4:** 
 
-- Discount Analysis: An evaluation of discounting behaviour on profit across regions.
-- Product Level Performance: An analysis of Hurst's Product lines, understanding their impact on overall profitability. 
-- Volume Analysis: An assesment of product volume, and if the margin generated justifies the  discounting behavior.
+The SQL queries used to inspect and clean the data for this analysis can be found here [link].
 
-The Mcode query used to inspect and clean the data for analysis can be found here
+Targed SQL queries regarding various business questions can be found here [link].
 
-The power Bi dashboard can be found here 
+An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
 
 
 
-## Data Structure and initial checks
-Hurst's database structure as seen below consists of three tables: Orders, Region and Product with a total row count of 10,000 records.
+# Data Structure & Initial Checks
 
-<img width="700" height="400" alt="Screenshot 2026-05-15 140820" src="https://github.com/user-attachments/assets/384cc8a7-d67b-4784-aaa5-2ceb6e8ed02b" />
+The companies main database structure as seen below consists of four tables: table1, table2, table3, table4, with a total row count of X records. A description of each table is as follows:
+- **Table 2:**
+- **Table 3:**
+- **Table 4:**
+- **Table 5:**
 
-Prior to conducting the analysis, a number of checks were conducted for quality control and familiarization with the data. 
+[Entity Relationship Diagram here]
 
-## Executive Summary 
+
+
+# Executive Summary
 
 ### Overview of Findings
-Despite accumulating £633,000 in revenue, the average profit margin across all region is 13.6%; With its cental and south region falling below this benchmark at 8.8% and 9.04%.
-A significant issue also emerges in its cental region: It records the highest discount at 24%, eight percentage above the business's average, indicating its effect on profit margin. The following sections will also explore additional factors and highlight key areas for improvement.
+
+Explain the overarching findings, trends, and themes in 2-3 sentences here. This section should address the question: "If a stakeholder were to take away 3 main insights from your project, what are the most important things they should know?" You can put yourself in the shoes of a specific stakeholder - for example, a marketing manager or finance director - to think creatively about this section.
+
+[Visualization, including a graph of overall trends or snapshot of a dashboard]
 
 
-<img width="1391" height="776" alt="Screenshot 2026-05-16 183834" src="https://github.com/user-attachments/assets/a0a1739d-7a0c-4c5b-89af-beac8307f4dd" />
+
+# Insights Deep Dive
+### Category 1:
+
+* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+  
+* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+  
+* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+  
+* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+
+[Visualization specific to category 1]
 
 
-### Discount Analysis:
-- Central's average discount at 24%, is the highest in the business and its profit margin at 8.75% the lowest within the company compared to other zones. The 8.13% difference to the company average signals that the discounting behaviour is a contributing factor to margin compresson. 
+### Category 2:
 
-- East region's discount at 13.74% is 2.59% below the company average at 15.88%, and its margin at 18.47% is the highest within the company- a positive sign of its discount discipline. A product line does appear to weigh downn the average margin, this could be due to the structural positioning- overall the regions appears healthy.
+* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+  
+* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+  
+* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+  
+* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
-- South region's margin at 9.04% is the firm's second lowest at a 4.52% difference to the company's average of 15.88%, while it's discount rate at 15.77% does fall slightly below company average of 15.88%- a healthy rate. However, it does not reveal why the area is not profitable; analysing the volume and produc lines could reveal how the marging is being compressed.
+[Visualization specific to category 2]
 
-- West Region's average discount is at an healthy state recorded at 11.63%, the lowest within the comapny.
+
+### Category 3:
+
+* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+  
+* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+  
+* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+  
+* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+
+[Visualization specific to category 3]
+
+
+### Category 4:
+
+* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+  
+* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+  
+* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+  
+* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+
+[Visualization specific to category 4]
+
+
+
+# Recommendations:
+
+Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
+
+* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+  
+* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+  
+* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+  
+* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+  
+* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+  
+
+
+# Assumptions and Caveats:
+
+Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
+
+* Assumption 1 (ex: missing country records were for customers based in the US, and were re-coded to be US citizens)
+  
+* Assumption 1 (ex: data for December 2021 was missing - this was imputed using a combination of historical trends and December 2020 data)
+  
+* Assumption 1 (ex: because 3% of the refund date column contained non-sensical dates, these were excluded from the analysis)
